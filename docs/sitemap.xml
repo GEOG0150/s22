@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://github.com/GOG0150/w22/college_policies/</loc>
+         <lastmod>2022-03-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://github.com/GOG0150/w22/description/</loc>
          <lastmod>2022-03-08</lastmod>
          <changefreq>daily</changefreq>
@@ -26,12 +31,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/GOG0150/w22/policies/</loc>
+         <loc>https://github.com/GOG0150/w22/problemSets/</loc>
          <lastmod>2022-03-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/GOG0150/w22/problemSets/</loc>
+         <loc>https://github.com/GOG0150/w22/ps_policies/</loc>
          <lastmod>2022-03-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
